@@ -1,0 +1,44 @@
+.Modal {
+  position: relative;
+  width: 300px;
+  z-index: 500;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px black;
+  padding: 16px;
+  left: 200px;
+  top: -75px;
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+  text-align: center;
+}
+
+.green {
+  position: relative;
+  width: 300px;
+  z-index: 300;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px black;
+  padding: 16px;
+  left: 690px;
+  top: -400px;
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+  text-align: center;
+}
+
+.red {
+  position: relative;
+  width: 300px;
+  z-index: 400;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px black;
+  padding: 16px;
+  left: 1200px;
+  top: -780px;
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+  text-align: center;
+}

@@ -1,0 +1,21 @@
+.Body {
+  background-color: grey;
+  position: relative;
+  text-align: center;
+  top: 70px;
+  left: 0;
+  height: 700px;
+  z-index: 100;
+  padding-top: 200px;
+}
+.love {
+  color: white;
+  text-align: center;
+  display: inline;
+  position: relative;
+  justify-content: space-around;
+  box-sizing: border-box;
+  z-index: 120;
+  padding-left: 0px;
+  border-radius: 20px;
+}
